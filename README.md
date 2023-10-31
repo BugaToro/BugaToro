@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div style="width: 100%;">
+  <img href="https://github.com/BugaToro/BugaToro" src="readmesvg.svg" style="width: 100%;">
+</div>
 <!--
 **BugaToro/BugaToro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
