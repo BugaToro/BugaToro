@@ -1,0 +1,34 @@
+<svg viewBox="0 0 700 350" width="700" height="350" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%" top="0" display="flex">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <style> /*estilo css*/
+          .conteiner{
+            display:flex;
+            justify-content:center;
+          }
+          
+        </style>
+
+        <div class="conteiner" > 
+          <h1>Luciano Bugarin</h1>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        </div>
+    </foreignObject>
+</svg>
+
