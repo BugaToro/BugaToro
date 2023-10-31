@@ -30,6 +30,11 @@
                                 <span>JavaScript</span>
                             </div>
 
+                             <div class="lf-item">
+                                <span class="lf-icon">🎨</span>
+                                <span>CSS</span>
+                            </div>
+
                             <div class="lf-item">
                                 <span class="lf-icon">🐍</span>
                                 <span>Python</span>
