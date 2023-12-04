@@ -63,9 +63,9 @@
 
             <style>
                 :root {
-                    --color-main: #5857a5;
-                    --color-primary: pink;
-                    --color-secondary: violet;
+                    --color-main: #FFFF00; 
+                    --color-primary: orange;
+                    --color-secondary: #FFFF00; 
                     --color-tertiary: #fff;
                 }
 
